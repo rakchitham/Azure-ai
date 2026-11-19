@@ -200,3 +200,5 @@ Audio
 Summaries
 
 Conversational responses
+
+Applications of Generative AI
