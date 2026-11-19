@@ -114,9 +114,33 @@ Through this certification, I developed knowledge of:
 - **Certification Provider:** Microsoft
 - **Official Website:** https://learn.microsoft.com/credentials/certifications/azure-ai-engineer/
 
-## Conclusion
 
-This certification strengthened my understanding of cloud-based artificial intelligence and the development of intelligent applications using Microsoft Azure. It provided valuable exposure to generative AI, natural language processing, computer vision, document intelligence, and AI-powered solutions.
 
 Azure AI Architecture
 Azure AI solutions typically involve multiple components working together to deliver intelligent applications.
+Basic Architecture
+
+          User
+           |
+           v
+     Frontend Application
+           |
+           v
+       Backend API
+           |
+           v
+      Azure AI Services
+           |
+     +-----+------+
+     |            |
+     v            v
+ Language      Computer
+  Services      Vision
+     |            |
+     +------+-----+
+            |
+            v
+       AI Response
+            |
+            v
+           User
