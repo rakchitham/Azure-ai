@@ -202,3 +202,13 @@ Summaries
 Conversational responses
 
 Applications of Generative AI
+
+AI-powered content generation.
+
+Automated question-answering systems.
+
+Code generation and assistance.
+
+Document summarization.
+
+Intelligent virtual assistants.
