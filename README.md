@@ -217,3 +217,348 @@ Intelligent virtual assistants.
 Large Language Models (LLMs)
 
 Large Language Models are AI models trained on large amounts of text data to understand and generate human language.
+
+Key Capabilities
+
+Text generation
+
+Text summarization
+
+Question answering
+
+Language translation
+
+Code generation
+
+Conversational interactions
+
+Examples
+
+GPT models
+
+Llama models
+
+Phi models
+
+Retrieval-Augmented Generation (RAG)
+
+Retrieval-Augmented Generation is a technique that combines information retrieval with generative AI.
+
+It allows an AI application to retrieve relevant information from an external knowledge source before generating a response.
+
+RAG Workflow
+
+       User Question
+             |
+             v
+       Query Processing
+             |
+             v
+       Information Search
+             |
+             v
+      Relevant Documents
+             |
+             v
+       LLM Processing
+             |
+             v
+       Generated Answer
+
+Benefits of RAG
+
+Provides context-aware answers.
+
+Uses external knowledge sources.
+
+Helps reduce unsupported responses.
+
+Supports enterprise knowledge management.
+
+Allows access to updated information.
+
+Natural Language Processing (NLP)
+
+Natural Language Processing enables computers to understand, interpret, and process human language.
+
+Important NLP Tasks
+
+Task
+
+Description
+
+Sentiment Analysis
+
+Identifies positive, negative, or neutral opinions
+
+Entity Recognition
+
+Identifies people, places, and organizations
+
+Key Phrase Extraction
+
+Extracts important phrases from text
+
+Language Detection
+
+Identifies the language of a text
+
+Text Classification
+
+Categorizes text into predefined classes
+
+Translation
+
+Converts text between languages
+
+Real-Time Example
+
+A customer feedback application can analyze product reviews and identify whether customers are satisfied or dissatisfied.
+
+Computer Vision
+
+Computer Vision enables computers to analyze and understand visual information such as images and videos.
+
+Important Computer Vision Tasks
+
+Image classification
+
+Object detection
+
+Image captioning
+
+Optical Character Recognition
+
+Face detection
+
+Image analysis
+
+Real-Time Applications
+
+Face recognition systems.
+
+Automated quality inspection.
+
+Medical image analysis.
+
+Traffic monitoring.
+
+Security surveillance.
+
+Speech AI
+
+Speech AI enables applications to understand spoken language and generate human-like speech.
+
+Key Features
+
+Speech-to-Text: Converts spoken language into text.
+
+Text-to-Speech: Converts written text into spoken audio.
+
+Speech Translation: Translates spoken language.
+
+Speech Recognition: Identifies spoken words.
+
+Speaker Recognition: Identifies speakers.
+
+Real-Time Applications
+
+Voice assistants.
+
+Automated customer support.
+
+Meeting transcription.
+
+Voice-enabled applications.
+
+Language learning platforms.
+
+Azure AI Document Intelligence
+
+Azure AI Document Intelligence extracts useful information from documents using AI-powered processing.
+
+Supported Document Processing
+
+Invoices
+
+Receipts
+
+Identity documents
+
+Business forms
+
+Contracts
+
+Structured documents
+
+Working Process
+
+Upload a document.
+
+Send the document to the AI service.
+
+Analyze the document content.
+
+Extract text and structured fields.
+
+Return the extracted information.
+
+Azure AI Search
+
+Azure AI Search is a cloud-based search service used to build intelligent search experiences.
+
+Key Features
+
+Full-text search
+
+Vector search
+
+Hybrid search
+
+Semantic ranking
+
+Knowledge retrieval
+
+Integration with generative AI applications
+
+Applications
+
+Enterprise document search.
+
+Knowledge management systems.
+
+AI-powered question-answering applications.
+
+Product search platforms.
+
+Responsible AI Principles
+
+Responsible AI focuses on developing and deploying AI systems in an ethical, safe, and reliable manner.
+
+Microsoft's Responsible AI principles include:
+
+Fairness
+
+Reliability and Safety
+
+Privacy and Security
+
+Inclusiveness
+
+Transparency
+
+Accountability
+
+Importance of Responsible AI
+
+Reduces unfair bias.
+
+Protects user information.
+
+Improves system reliability.
+
+Builds user trust.
+
+Encourages ethical AI development.
+
+AI Security and Privacy
+
+Security is an important part of developing cloud-based AI applications.
+
+Important Practices
+
+Use secure authentication.
+
+Protect API keys and credentials.
+
+Apply role-based access control.
+
+Validate user inputs.
+
+Monitor application activity.
+
+Follow data protection requirements.
+
+Avoid exposing sensitive information.
+
+Azure AI Integration with Applications
+
+Azure AI services can be integrated into applications using SDKs and REST APIs.
+
+Integration Workflow
+
+Create an Azure AI resource.
+
+Obtain the required endpoint.
+
+Configure authentication.
+
+Connect the application using an SDK or REST API.
+
+Send input data.
+
+Process the AI response.
+
+Display the output to users.
+
+Practical Project Ideas
+
+Project
+
+Azure AI Technology
+
+AI Chatbot
+
+Azure OpenAI
+
+Resume Analyzer
+
+Azure AI Language
+
+Image Classification
+
+Azure AI Vision
+
+Document Information Extractor
+
+Document Intelligence
+
+Voice Assistant
+
+Azure AI Speech
+
+Intelligent Knowledge Search
+
+Azure AI Search
+
+Customer Sentiment Analyzer
+
+Azure AI Language
+
+AI Agent
+
+Azure AI Foundry
+
+Future Learning Roadmap
+
+My future learning goals include:
+
+Developing applications using Azure AI services.
+
+Exploring Azure OpenAI integrations.
+
+Building Retrieval-Augmented Generation applications.
+
+Understanding AI agent architectures.
+
+Learning vector databases and semantic search.
+
+Integrating AI services with Java and Python.
+
+Developing and deploying real-world AI projects.
+
+Final Note
+
+This repository serves as my technical learning documentation for Microsoft Azure AI, covering core concepts, cloud-based AI services, generative AI, and practical applications.
+
+I will continue expanding this repository with hands-on implementations, code examples, architecture diagrams, and practical AI projects.
