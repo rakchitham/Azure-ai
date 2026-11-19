@@ -119,3 +119,4 @@ Through this certification, I developed knowledge of:
 This certification strengthened my understanding of cloud-based artificial intelligence and the development of intelligent applications using Microsoft Azure. It provided valuable exposure to generative AI, natural language processing, computer vision, document intelligence, and AI-powered solutions.
 
 Azure AI Architecture
+Azure AI solutions typically involve multiple components working together to deliver intelligent applications.
