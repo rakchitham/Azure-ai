@@ -212,3 +212,8 @@ Code generation and assistance.
 Document summarization.
 
 Intelligent virtual assistants.
+
+
+Large Language Models (LLMs)
+
+Large Language Models are AI models trained on large amounts of text data to understand and generate human language.
