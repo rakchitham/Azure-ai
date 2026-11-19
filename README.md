@@ -186,3 +186,4 @@ Resource management is handled independently
 Provides Azure resource management
 
 Introduction to Generative AI
+Generative AI is a branch of artificial intelligence that creates new content based on patterns learned from training data.
