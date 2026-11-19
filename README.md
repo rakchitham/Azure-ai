@@ -1,3 +1,5 @@
+
+
 # Microsoft Certified: Azure AI Engineer Associate (AI-102)
 
 ## About the Certification
@@ -182,3 +184,5 @@ Provides APIs and SDKs
 Resource management is handled independently
 
 Provides Azure resource management
+
+Introduction to Generative AI
