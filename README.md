@@ -144,3 +144,15 @@ Basic Architecture
             |
             v
            User
+
+Components
+
+Frontend: Provides the user interface.
+
+Backend: Handles application logic and API requests.
+
+Azure AI Services: Performs AI-related operations.
+
+Database: Stores application information.
+
+API Integration: Connects different application components.
