@@ -83,7 +83,6 @@ The certification focuses on the following areas:
 - Document Intelligence
 - REST APIs
 - Responsible AI
-
 ## Real-World Applications
 
 Azure AI technologies can be used to develop:
