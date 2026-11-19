@@ -156,3 +156,29 @@ Azure AI Services: Performs AI-related operations.
 Database: Stores application information.
 
 API Integration: Connects different application components.
+
+Azure AI vs Traditional AI
+
+Traditional AI
+
+Azure AI
+
+Requires infrastructure setup
+
+Provides cloud infrastructure
+
+Model deployment is managed separately
+
+Offers managed AI services
+
+Scaling requires infrastructure planning
+
+Supports cloud scalability
+
+Integration may require custom development
+
+Provides APIs and SDKs
+
+Resource management is handled independently
+
+Provides Azure resource management
